@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "src/rust_hello",
+    "src/rust_hello_dioxus",
 ]
